@@ -40,6 +40,3 @@ eureka:
       
 server:
   port: 8085
-
-debug: true   
-
